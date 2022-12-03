@@ -293,5 +293,17 @@ main .article-box{
   visibility: hidden;
 }
 
+.attribution { 
+   font-size: 12px; 
+   text-align: center;
+   margin-top: 25px; 
+
+}
+
+.attribution a { 
+color: orangered; 
+font-size: 12px;
+}
+
 
 }
